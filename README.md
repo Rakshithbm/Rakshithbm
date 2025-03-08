@@ -1,13 +1,8 @@
 - 👋 Hi, I’m Rakshith B M
 - 👀 I’m interested in java sql html css and javascript 
-- 🌱 I’m currently learning web technology
+- 🌱 I’m currently learning web technology,SQL,java full stack
 Exploring new technologies and developing software solutions and quick hacks.
-🎓   Completed Computer Science Bachelor's Degree from SSIT.
-🌱   Learning more about Machine Learning, Systems Design and Artificial Intelligence.
-🛠  Tech Stack
-💻   Python Java C++ R (Statistics)
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
-🛢   MySQL MongoDB
-⚙️   Git GitHub Markdown
-🔧   Visual Studio Code RStudio Eclipse
-🖥   Illustrator Photoshop InDesign
+🎓  I have completed my Computer Science and Engineering degree at SSIT College
+a passionate software developer with expertise in Java, SQL, HTML, CSS, and JavaScript. . I enjoy building efficient, scalable applications and working on innovative projects. My interests include web development, database management, and problem-solving. Feel free to explore my projects and connect with me!
+
+ 
